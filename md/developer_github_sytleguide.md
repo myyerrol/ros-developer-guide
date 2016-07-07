@@ -1,4 +1,4 @@
-# 团队GitHub风格指南
+# Team GitHub风格指南
 
 ## 0. 前言
 

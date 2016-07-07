@@ -1,4 +1,4 @@
-# 团队Python风格指南
+# Team Python风格指南
 
 ## 0. 前言
 
