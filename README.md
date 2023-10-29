@@ -1,4 +1,4 @@
-# ros_developer_guide
+# ros-developer-guide
 
 ## Introduction:
 This developer's guide is that I summarized in the process of developing the robot project. It includes C++/Python coding style guide, GitHub management guide, and ROS developer guide(such as package, CMakelists, msg, srv, aciton, etc).
